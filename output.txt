@@ -1,0 +1,22 @@
+Monica hizo check-in en el aeropuerto Francia
+El peso ha sido excedido
+El peso ha sido excedido
+Se ha ingresado la maleta de peso 20.0
+[Guantes, Zapato, Calcetines, Gorro, Flores, Camisa, Pantalones, Dulces, Polera]
+Se ha ingresado la maleta de peso 19.0
+[Polera, Gorro, Dulces, Camisa, Pantalones]
+Se ha ingresado la maleta de peso 8.5
+[Calcetines, Polera, Dulces, Pantalones]
+Alfonso no pudo hacer check-in
+Nicolas no pudo hacer check-in
+Daniela hizo check-in en el aeropuerto Moldavia
+Se ha ingresado la maleta de peso 10.5
+[Dulces, Chalas, Guantes, Camisa]
+Se ha ingresado la maleta de peso 8.5
+[Chalas, Calcetines, Guantes, Dulces]
+El peso ha sido excedido
+El peso ha sido excedido
+El peso ha sido excedido
+El peso ha sido excedido
+Se ha ingresado la maleta de peso 15.0
+[Licor, Camisa, Flores, Calcetines, Gorro, Chalas, Polera]
